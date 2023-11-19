@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testing-react/static/css/main.d3ace894.css",
-    "main.js": "/testing-react/static/js/main.a89424d2.js",
+    "main.js": "/testing-react/static/js/main.a74732bc.js",
     "static/js/787.012077ab.chunk.js": "/testing-react/static/js/787.012077ab.chunk.js",
     "static/media/FotoEllys.png": "/testing-react/static/media/FotoEllys.312a7abfe97fe6f93693.png",
     "static/media/background.jpg": "/testing-react/static/media/background.2539496edfde4ef41217.jpg",
@@ -18,11 +18,11 @@
     "static/media/brush.svg": "/testing-react/static/media/brush.0133886d6eb615eb2e712f28b74abfc8.svg",
     "index.html": "/testing-react/index.html",
     "main.d3ace894.css.map": "/testing-react/static/css/main.d3ace894.css.map",
-    "main.a89424d2.js.map": "/testing-react/static/js/main.a89424d2.js.map",
+    "main.a74732bc.js.map": "/testing-react/static/js/main.a74732bc.js.map",
     "787.012077ab.chunk.js.map": "/testing-react/static/js/787.012077ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3ace894.css",
-    "static/js/main.a89424d2.js"
+    "static/js/main.a74732bc.js"
   ]
 }
