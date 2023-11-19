@@ -7,7 +7,6 @@ const AboutPages = () => {
     <>
       <Navbar />
       <About />
-
     </>
   );
 };

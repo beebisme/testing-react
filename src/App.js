@@ -10,17 +10,19 @@ import ContactPages from "./Pages/ContactPages";
 
 function App() {
   return (
-    <div className="App">
-      <Router>
-        <Routes>
-          <Route path="/" element={<HomePage />}></Route>
-          <Route path="/About" element={<AboutPages />}></Route>
-          <Route path="/Hobby" element={<HobbyPages />}></Route>
-          <Route path="/Skill" element={<SkillPages />}></Route>
-          <Route path="/Contact" element={<ContactPages />}></Route>
-        </Routes>
-      </Router>
-    </div>
+    // <div className="App">
+    //   <h1>test</h1>
+
+    // </div>
+    <Router>
+      <Routes>
+        <Route path="react-ellys-app/" element={<HomePage />} />
+        <Route path="/About" element={<AboutPages />} />
+        <Route path="/Hobby" element={<HobbyPages />} />
+        <Route path="/Skill" element={<SkillPages />} />
+        <Route path="/Contact" element={<ContactPages />} />
+      </Routes>
+    </Router>
   );
 }
 

@@ -2,7 +2,7 @@
   "name": "portofolio-ellys",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Ellys15.github.io/react_app",
+  "homepage": "http://beebisme.github.io/testing-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
